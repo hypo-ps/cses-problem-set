@@ -1,0 +1,7 @@
+# Compiled binaries
+*.bin
+*.out
+*.o
+
+# macOS
+.DS_Store
