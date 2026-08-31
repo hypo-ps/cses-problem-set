@@ -13,6 +13,12 @@ My C++ solutions to the [CSES Problem Set](https://cses.fi/problemset/).
 - Book Shop
 - Array Description
 - Counting Towers
+- Removal Game
+- Rectangle Cutting
+- Money Sums
+- Minimal Grid Path
+- Longest Common Subsequence
+- Edit Distance
 
 Compiled binaries are not tracked. To build a solution:
 
