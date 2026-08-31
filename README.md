@@ -20,6 +20,11 @@ My C++ solutions to the [CSES Problem Set](https://cses.fi/problemset/).
 - Longest Common Subsequence
 - Edit Distance
 
+## Tree Algorithms
+
+- Subordinates
+- Tree Matching
+
 Compiled binaries are not tracked. To build a solution:
 
 ```sh
