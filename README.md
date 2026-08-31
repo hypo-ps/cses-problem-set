@@ -24,6 +24,8 @@ My C++ solutions to the [CSES Problem Set](https://cses.fi/problemset/).
 
 - Subordinates
 - Tree Matching
+- Tree Diameter
+- Tree Distances I
 
 Compiled binaries are not tracked. To build a solution:
 
