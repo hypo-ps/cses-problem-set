@@ -2,6 +2,13 @@
 
 My C++ solutions to the [CSES Problem Set](https://cses.fi/problemset/).
 
+## Introductory Problems
+
+- Weird Algorithm
+- Missing Number
+- Repetitions
+- Increasing Array
+
 ## Dynamic Programming
 
 - Dice Combinations
