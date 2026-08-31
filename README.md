@@ -26,6 +26,7 @@ My C++ solutions to the [CSES Problem Set](https://cses.fi/problemset/).
 - Tree Matching
 - Tree Diameter
 - Tree Distances I
+- Tree Distances II
 
 Compiled binaries are not tracked. To build a solution:
 
