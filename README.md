@@ -34,6 +34,12 @@ My C++ solutions to the [CSES Problem Set](https://cses.fi/problemset/).
 - Tree Diameter
 - Tree Distances I
 - Tree Distances II
+- Company Queries I
+
+## Graph Algorithms
+
+- Counting Rooms
+- Labyrinth
 
 Compiled binaries are not tracked. To build a solution:
 
