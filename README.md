@@ -40,6 +40,8 @@ My C++ solutions to the [CSES Problem Set](https://cses.fi/problemset/).
 
 - Counting Rooms
 - Labyrinth
+- Building Roads
+- Message Route
 
 Compiled binaries are not tracked. To build a solution:
 
