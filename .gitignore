@@ -9,3 +9,4 @@
 # Editor / extension local state
 .vscode/
 .cph/
+c_cpp_properties.json

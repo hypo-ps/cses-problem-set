@@ -42,6 +42,8 @@ My C++ solutions to the [CSES Problem Set](https://cses.fi/problemset/).
 - Labyrinth
 - Building Roads
 - Message Route
+- Building Teams
+- Round Trip
 
 Compiled binaries are not tracked. To build a solution:
 
